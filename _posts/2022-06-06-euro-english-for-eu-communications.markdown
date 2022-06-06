@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  'EuroEnglish for European communications'
 date:   2022-06-06 18:11:33 +0800
 categories: joke post
